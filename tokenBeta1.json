@@ -4,25 +4,25 @@
       "username": "user1",
       "password": "pass1",
       "token": "token1",
-      "subscription_expiry": "2024-10-24T18:00:00Z"
+      "subscription_time": "2024-10-24T18:00:00Z"
     },
     {
       "username": "user2",
       "password": "pass2",
       "token": "token2",
-      "subscription_expiry": "2024-10-24T18:00:00Z"
+      "subscription_time": "2024-10-24T18:00:00Z"
     },
     {
       "username": "user3",
       "password": "pass3",
       "token": "token1",
-      "subscription_expiry": "2024-10-24T18:00:00Z"
+      "subscription_time": "2024-10-24T18:00:00Z"
     },
     {
       "username": "user4",
       "password": "pass4",
       "token": "token2",
-      "subscription_expiry": "2024-10-24T18:00:00Z"
+      "subscription_time": "2024-10-24T18:00:00Z"
     }
   ]
 }
