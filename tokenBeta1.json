@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "username": "user1",
+      "password": "pass1",
+      "token": "token1",
+      "subscription_time": "2023-10-01T00:00:00Z" // ISO формат даты
+    },
+    {
+      "username": "user2",
+      "password": "pass2",
+      "token": "token2",
+      "subscription_time": "2023-09-01T00:00:00Z"
+    }
+    // ...
+  ]
+}
